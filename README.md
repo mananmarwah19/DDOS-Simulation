@@ -48,5 +48,5 @@ This experiment demonstrates how excessive network traffic can be detected and a
 
 ## Author
 
-Name: Your Name
+Name: Manan Marwah
 Course: Network Security
